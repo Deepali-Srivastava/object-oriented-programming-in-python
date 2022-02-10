@@ -1,6 +1,6 @@
 # Python OOP : Object oriented Programming in Python
 
-This repository is for the students of my online course“Python OOP : Object oriented Programming in Python”. It contains the source code of all the programs used in the course. The course is available on Udemy.
+This repository is for the students of my online course “Python OOP : Object oriented Programming in Python”. It contains the source code of all the programs used in the course. The course is available on Udemy.
 
 ### About the Course
  * Thoroughly detailed course with complete working programs
