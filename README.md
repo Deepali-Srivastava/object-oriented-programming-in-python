@@ -18,3 +18,5 @@ This repository is for the students of my online course“Python OOP : Object or
 [![data-structures- and-algorithms-in-c-plus-plus](https://user-images.githubusercontent.com/98641125/153196522-2412c993-1055-4322-8487-4133537566c9.png)]( https://www.udemy.com/course/data-structures-and-algorithms-in-c-plus-plus/?couponCode=GITHUBSTUDENT)
 [![linux-commands](https://user-images.githubusercontent.com/98641125/153196567-96b3396c-8ee3-4233-b8fc-66c6b3bd830c.png)]( https://www.udemy.com/course/linux-commands/?couponCode=GITHUBSTUDENT)
 
+© Copyright Deepali Srivastava : All rights reserved
+
