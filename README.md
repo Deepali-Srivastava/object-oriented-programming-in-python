@@ -1,6 +1,7 @@
 # Python OOP : Object oriented Programming in Python
 
-This repository is for the students of my online course “Python OOP : Object oriented Programming in Python”. It contains the source code of all the programs used in the course. The course is available on Udemy.
+This “Python OOP : Object oriented Programming in Python” repository contains source code for the students of my online course. 
+It is part of [Python Programming](https://www.udemy.com/course/python-programming-in-depth/?couponCode=GITHUBSTUDENT) course available on Udemy.
 
 ### About the Course
  * Thoroughly detailed course with complete working programs
@@ -18,5 +19,7 @@ This repository is for the students of my online course “Python OOP : Object o
 [![data-structures- and-algorithms-in-c-plus-plus](https://user-images.githubusercontent.com/98641125/153196522-2412c993-1055-4322-8487-4133537566c9.png)]( https://www.udemy.com/course/data-structures-and-algorithms-in-c-plus-plus/?couponCode=GITHUBSTUDENT)
 [![linux-commands](https://user-images.githubusercontent.com/98641125/153196567-96b3396c-8ee3-4233-b8fc-66c6b3bd830c.png)]( https://www.udemy.com/course/linux-commands/?couponCode=GITHUBSTUDENT)
 
-© Copyright Deepali Srivastava : All rights reserved
+## Copyright
+© Copyright Deepali Srivastava : All rights reserved.
+Not to be used for commercial purposes.
 
