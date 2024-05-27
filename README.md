@@ -1,7 +1,7 @@
 # Python OOP : Object oriented Programming in Python
 
 This “Python OOP : Object oriented Programming in Python” repository contains source code for the students of my online course. 
-You can learn in detail from my [Ultimate Python Programming](https://www.amazon.in/Ultimate-Python-Programming-programs-questions/dp/935551655X) book available on amazon.
+You can learn Python in detail from my [Ultimate Python Programming](https://www.amazon.in/Ultimate-Python-Programming-programs-questions/dp/935551655X) book available on amazon.
 
 ### About the Course
  * Thoroughly detailed course with complete working programs
@@ -12,7 +12,7 @@ You can learn in detail from my [Ultimate Python Programming](https://www.amazon
  * Lifetime Access
 
 ### Courses by [Deepali Srivastava](https://www.udemy.com/user/deepalisrivastava/)
-[![python-programming-in-depth](https://user-images.githubusercontent.com/98641125/153196166-45ef8461-adb1-4f9f-b9ee-e482a5ad54a7.png)]( https://www.udemy.com/course/python-programming-in-depth/?couponCode=GITHUBSTUDENT)
+[![python-programming-in-depth](https://user-images.githubusercontent.com/98641125/153196166-45ef8461-adb1-4f9f-b9ee-e482a5ad54a7.png)](https://coursegalaxy.newzenler.com/courses/python-programming?coupon=GITHUB50)
 [![data-structures- and-algorithms-in-python](https://user-images.githubusercontent.com/98641125/153196027-592d0307-5130-444f-8527-802634b5cc1e.png)]( https://www.udemy.com/course/data-structures-algorithms-in-python/?couponCode=GITHUBSTUDENT)
 [![data-structures- and-algorithms-in-python-2](https://user-images.githubusercontent.com/98641125/153196106-0eb1a386-c36b-4f14-8675-9d865438f882.png)]( https://www.udemy.com/course/data-structures-and-algorithms-in-python-2/?couponCode=GITHUBSTUDENT)
 [![exception-handling-in-python](https://user-images.githubusercontent.com/98641125/153196201-83c1a210-9c4f-4ba5-a56f-6aa4d4c551b2.png)]( https://www.udemy.com/course/exception-handling-in-python/?couponCode=GITHUBSTUDENT)
