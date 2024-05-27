@@ -1,7 +1,7 @@
 # Python OOP : Object oriented Programming in Python
 
 This “Python OOP : Object oriented Programming in Python” repository contains source code for the students of my online course. 
-It is part of my complete [Python Programming](https://www.udemy.com/course/python-programming-in-depth/?couponCode=GITHUBSTUDENT) course available on Udemy.
+You can learn in detail from my [Ultimate Python Programming](https://www.amazon.in/Ultimate-Python-Programming-programs-questions/dp/935551655X) book available on amazon.
 
 ### About the Course
  * Thoroughly detailed course with complete working programs
