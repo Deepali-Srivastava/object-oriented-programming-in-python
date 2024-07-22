@@ -4,6 +4,7 @@ This “Python OOP : Object oriented Programming in Python” repository contain
 You can learn Python in detail from my [Ultimate Python Programming](https://www.amazon.in/Ultimate-Python-Programming-programs-questions/dp/935551655X) book available on amazon.
 
 ### About the Course
+ * Instructor - Deepali Srivastava, Author of [Ultimate Python Programming](https://www.amazon.in/Ultimate-Python-Programming-programs-questions/dp/935551655X)
  * Thoroughly detailed course with complete working programs
  * Contains lots of animations to help you visualize the concepts
  * Includes quizzes and programming exercises
