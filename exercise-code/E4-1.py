@@ -5,7 +5,7 @@ class Time:
     def __init__(self,h,m,s):
         self._h = h 
         self._m = m
-        self._s = h
+        self._s = s
 
     #Read-only field accessors
     @property
