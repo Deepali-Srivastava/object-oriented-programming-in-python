@@ -3,20 +3,14 @@
 This “Python OOP : Object oriented Programming in Python” repository contains source code for the students of my online course. 
 You can learn Python in detail from my [Ultimate Python Programming](https://www.amazon.in/Ultimate-Python-Programming-programs-questions/dp/935551655X) book available on amazon.
 
-### About the Course
- * Instructor - Deepali Srivastava, Author of [Ultimate Python Programming](https://www.amazon.in/Ultimate-Python-Programming-programs-questions/dp/935551655X)
- * Thoroughly detailed course with complete working programs
- * Contains lots of animations to help you visualize the concepts
- * Includes quizzes and programming exercises
- * Builds a solid foundation in object-oriented concepts
- * Prepares you for coding interviews 
- * Lifetime Access
+### Book by [Deepali Srivastava](https://in.linkedin.com/in/deepali-srivastava-2030b7301)
+[![ultimate-python-programming](https://github.com/user-attachments/assets/c4d9cc94-d9da-4d98-bdf5-24cb592a64f4)](https://www.amazon.in/Ultimate-Python-Programming-programs-questions/dp/935551655X)
 
-### Courses by [Deepali Srivastava](https://www.udemy.com/user/deepalisrivastava/)
+### Courses by [Deepali Srivastava](https://in.linkedin.com/in/deepali-srivastava-2030b7301)
+
+[![python-programming](https://github.com/user-attachments/assets/45842e4c-ded3-494f-9a82-24d503e153c2)](https://coursegalaxy.newzenler.com/courses/python-programming?coupon=GITHUB50)
+[![exception-handling-python](https://github.com/user-attachments/assets/666c2ab0-c334-44fb-a1c9-f0427c1e8e36)](https://coursegalaxy.newzenler.com/courses/exception-handling-python?coupon=GITHUB50)
 [![data-structures-algorithms-python](https://user-images.githubusercontent.com/96913690/200234827-86aec10a-bfab-4371-91fc-e2be855ff1ff.jpg)](https://coursegalaxy.newzenler.com/courses/data-structures-algorithms-python-masterclass?coupon=GITHUB50)
-[![data-structures-algorithms-java](https://user-images.githubusercontent.com/96913690/200234744-14a5ed97-085f-44f3-9298-979c2053c580.jpg)](https://coursegalaxy.newzenler.com/courses/data-structures-algorithms-java-masterclass?coupon=GITHUB50)
-[![data-structures-algorithms-c](https://user-images.githubusercontent.com/96913690/200234592-25d33957-0e9e-4cc0-b324-2a73325aca85.jpg)](https://coursegalaxy.newzenler.com/courses/data-structures-algorithms-c-masterclass?coupon=GITHUB50)
-[![data-structures-algorithms-csharp](https://user-images.githubusercontent.com/96913690/200234905-67b85dfd-20c4-4f4b-afd2-e10d3568fff8.jpg)](https://coursegalaxy.newzenler.com/courses/data-structures-algorithms-csharp-masterclass?coupon=GITHUB50)
 
 <!---
 
